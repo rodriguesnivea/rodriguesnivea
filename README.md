@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodriguesnivea" alt="rodriguesnivea" /></a> </p>
 
-- 🌱 Estou aprendendo agora **Java e POO**
+- 🌱 Estou estudando **C#, POO e Bancos de dados**
 
 - 👯 Eu estou procurando por desenvolvimento **uma grande empresa**
 
