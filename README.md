@@ -7,6 +7,8 @@
 
 - 🌱 Estou estudando **C#, POO e Bancos de dados**
 
+- 🔥 Estou estagiando em desenvolvimento de software na **BNE - Banco Nacional de Empregos**
+
 - 👯 Eu estou procurando por desenvolvimento **uma grande empresa**
 
 - 📫 Como me encontrar **rodriguesnivea779@gmail.com**
