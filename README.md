@@ -9,8 +9,6 @@
 
 - 🔥 Estou estagiando em desenvolvimento de software na **BNE - Banco Nacional de Empregos**
 
-- 👯 Eu estou procurando por desenvolvimento **uma grande empresa**
-
 - 📫 Como me encontrar **rodriguesnivea779@gmail.com**
 
 - 📄 Saiba sobre minhas experiencias [https://docs.google.com/document/d/1nN4gswNP2FaLMSWu77a72ziRhr8OrK83O9MSn-Qpksg/edit?usp=sharing](https://docs.google.com/document/d/1nN4gswNP2FaLMSWu77a72ziRhr8OrK83O9MSn-Qpksg/edit?usp=sharing)
