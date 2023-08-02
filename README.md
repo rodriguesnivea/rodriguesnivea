@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodriguesnivea" alt="rodriguesnivea" /></a> </p>
 
-- 🌱 Estou estudando **C#, POO e Bancos de dados**
+- 🔥 Estou atuando como Desenvolvedora Backend Junior na empresa **BNE - Banco Nacional de Empregos**
 
-- 🔥 Estou estagiando em desenvolvimento de software na **BNE - Banco Nacional de Empregos**
+- 🌱 Estou estudando **C#, .NET MVC, RabbitMQ e Entity Framework**
 
 - 📫 Como me encontrar **rodriguesnivea779@gmail.com**
 
